@@ -8,3 +8,6 @@
 使用各種奇葩的方式把敵人弄出(低於)地圖就贏了
 ### 執行檔位置
 EXE目錄下
+### 使用素材
+坦克模型:
+https://assetstore.unity.com/packages/3d/vehicles/msta-russian-artillery-tank-101487
